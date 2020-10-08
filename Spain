@@ -1,157 +1,381 @@
 #EXTM3U
-#EXTINF:-1,ES: #0 HD
-http://104.218.60.145:83/292745542/267567743/376731
-#EXTINF:-1,ES: 24 Horas
-http://104.218.60.145:83/292745542/267567743/376735
-#EXTINF:-1,ES: 40 TV
-http://104.218.60.145:83/292745542/267567743/376736
-#EXTINF:-1,ES: A&amp;E
-http://104.218.60.145:83/292745542/267567743/376730
+#EXTINF:-1,ES: 24h
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110900
+#EXTINF:-1,ES: A&E
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109857
 #EXTINF:-1,ES: AMC
-http://104.218.60.145:83/292745542/267567743/376729
-#EXTINF:-1,ES: ANTENA 3 HD
-http://104.218.60.145:83/292745542/267567743/376706
-#EXTINF:-1,ES: AXN HD
-http://104.218.60.145:83/292745542/267567743/376728
-#EXTINF:-1,ES: AXN WHITE HD
-http://104.218.60.145:83/292745542/267567743/376705
-#EXTINF:-1,ES: BARCA TV
-http://104.218.60.145:83/292745542/267567743/376737
-#EXTINF:-1,ES: Bein Liga HD
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/204
-#EXTINF:-1,ES: Bein Sport HD
-http://104.218.60.145:83/292745542/267567743/376726
-#EXTINF:-1,ES: Boing
-http://104.218.60.145:83/292745542/267567743/376725
-#EXTINF:-1,ES: CALLE 13 HD
-http://104.218.60.145:83/292745542/267567743/376704
-#EXTINF:-1,ES: Canal  DEPORTES 2 HD
-http://104.218.60.145:83/292745542/267567743/376700
-#EXTINF:-1,ES: Canal  DEPORTES HD
-http://104.218.60.145:83/292745542/267567743/376699
-#EXTINF:-1,ES: Canal  FUTBOL HD
-http://104.218.60.145:83/292745542/267567743/376697
-#EXTINF:-1,ES: Canal  GOLF HD
-http://104.218.60.145:83/292745542/267567743/376696
-#EXTINF:-1,ES: Canal  LIGA HD
-http://104.218.60.145:83/292745542/267567743/376695
-#EXTINF:-1,ES: Canal  TOROS HD
-http://104.218.60.145:83/292745542/267567743/376693
-#EXTINF:-1,ES: CANAL COCINA
-http://104.218.60.145:83/292745542/267567743/376724
-#EXTINF:-1,ES: Canal DCINE HD
-http://104.218.60.145:83/292745542/267567743/376701
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109858
+#EXTINF:-1,ES: Animal Planet
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109859
+#EXTINF:-1,ES: Antena 3
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109860
+#EXTINF:-1,ES: Antena 3 Internactional
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110901
+#EXTINF:-1,ES: AXN
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109861
+#EXTINF:-1,ES: AZ Corazon
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109862
+#EXTINF:-1,ES: AZ Mundo
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109863
+#EXTINF:-1,ES: AZTECA 7
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109864
+#EXTINF:-1,ES: Baby Tv
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109865
+#EXTINF:-1,ES: Bandamax
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109866
+#EXTINF:-1,ES: Barca TV
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110918
+#EXTINF:-1,ES: Benfica TV
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110902
+#EXTINF:-1,ES: Boomerang
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109867
+#EXTINF:-1,ES: Cable Noticias
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109868
+#EXTINF:-1,ES: CANAL 5
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109869
 #EXTINF:-1,ES: Canal De Las Estrellas
-http://104.218.60.145:83/292745542/267567743/376741
-#EXTINF:-1,ES: CANAL DECASA
-http://104.218.60.145:83/292745542/267567743/376723
-#EXTINF:-1,ES: Canal SERIES HD
-http://104.218.60.145:83/292745542/267567743/376722
-#EXTINF:-1,ES: Canal SERIES XTRA HD
-http://104.218.60.145:83/292745542/267567743/376694
-#EXTINF:-1,ES: Caza y pesca
-http://104.218.60.145:83/292745542/267567743/376721
-#EXTINF:-1,ES: Clan Tve
-http://104.218.60.145:83/292745542/267567743/376720
-#EXTINF:-1,ES: COMEDY CENTRAL HD
-http://104.218.60.145:83/292745542/267567743/376738
-#EXTINF:-1,ES: COSMO HD
-http://104.218.60.145:83/292745542/267567743/376719
-#EXTINF:-1,ES: Crimen Investigation
-http://104.218.60.145:83/292745542/267567743/376743
-#EXTINF:-1,ES: CUATRO HD
-http://104.218.60.145:83/292745542/267567743/376691
-#EXTINF:-1,ES: DISCOVERY
-http://104.218.60.145:83/292745542/267567743/376689
-#EXTINF:-1,ES: DISCOVERY CHANNEL HD
-http://104.218.60.145:83/292745542/267567743/376690
-#EXTINF:-1,ES: DISNEY CHANNEL HD
-http://104.218.60.145:83/292745542/267567743/376688
-#EXTINF:-1,ES: DISNEY JUNIOR
-http://104.218.60.145:83/292745542/267567743/376687
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109870
+#EXTINF:-1,ES: Canal RCN
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109871
+#EXTINF:-1,ES: Canal Uno
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109872
+#EXTINF:-1,ES: Caracol
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109873
+#EXTINF:-1,ES: Cartoon Network
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109874
+#EXTINF:-1,ES: CGTN
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109875
+#EXTINF:-1,ES: Cine Canal
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109876
+#EXTINF:-1,ES: Cine Latino
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109877
+#EXTINF:-1,ES: Cine Sony
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109878
+#EXTINF:-1,ES: CINECANAL
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109879
+#EXTINF:-1,ES: Cinemax
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109880
+#EXTINF:-1,ES: City TV
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109881
+#EXTINF:-1,ES: Clan
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110903
+#EXTINF:-1,ES: CNN En Espanol
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109882
+#EXTINF:-1,ES: CNN Internacional
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109883
+#EXTINF:-1,ES: Comedy Central
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109884
+#EXTINF:-1,ES: Cosmovision
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109885
+#EXTINF:-1,ES: De Pelicula
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110904
+#EXTINF:-1,ES: De Pelicula Classico
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109886
+#EXTINF:-1,ES: De Película Plus
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109887
+#EXTINF:-1,ES: Digital Quince
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109888
+#EXTINF:-1,ES: DirectTV Sport
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109889
+#EXTINF:-1,ES: DirectTV Sport 1
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109890
+#EXTINF:-1,ES: DirectTV Sport 2
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109891
+#EXTINF:-1,ES: Discovery en Espanol
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109892
+#EXTINF:-1,ES: Discovery Civilization
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109893
+#EXTINF:-1,ES: DISCOVERY FAMILIA
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109894
+#EXTINF:-1,ES: Discovery Home & Heatlh
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109895
+#EXTINF:-1,ES: Discovery Kids
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109896
+#EXTINF:-1,ES: DISCOVERY SCIENCE
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109897
+#EXTINF:-1,ES: DISCOVERY THEATER
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109898
+#EXTINF:-1,ES: Discovery Turbo
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109899
+#EXTINF:-1,ES: Discovery World
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109900
+#EXTINF:-1,ES: DISNEY CHANNEL
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109901
+#EXTINF:-1,ES: DISNEY JR
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109902
 #EXTINF:-1,ES: DISNEY XD
-http://104.218.60.145:83/292745542/267567743/376686
-#EXTINF:-1,ES: DIVINITY
-http://104.218.60.145:83/292745542/267567743/376718
-#EXTINF:-1,ES: Energy
-http://104.218.60.145:83/292745542/267567743/376732
-#EXTINF:-1,ES: EUROSPORT 1
-http://104.218.60.145:83/292745542/267567743/376733
-#EXTINF:-1,ES: EUROSPORT 2
-http://104.218.60.145:83/292745542/267567743/376734
-#EXTINF:-1,ES: FDF
-http://104.218.60.145:83/292745542/267567743/376717
-#EXTINF:-1,ES: FOX HD
-http://104.218.60.145:83/292745542/267567743/376685
-#EXTINF:-1,ES: FOX LIFE HD
-http://104.218.60.145:83/292745542/267567743/376684
-#EXTINF:-1,ES: GOL Tv
-http://104.218.60.145:83/292745542/267567743/376716
-#EXTINF:-1,ES: HISTORIA
-http://104.218.60.145:83/292745542/267567743/376683
-#EXTINF:-1,ES: HOLLYWOOD HD
-http://104.218.60.145:83/292745542/267567743/376682
-#EXTINF:-1,ES: IBERALIA
-http://104.218.60.145:83/292745542/267567743/376715
-#EXTINF:-1,ES: LA 1 HD
-http://104.218.60.145:83/292745542/267567743/376681
-#EXTINF:-1,ES: LA 2 HD
-http://104.218.60.145:83/292745542/267567743/376714
-#EXTINF:-1,ES: La Liga BAR HD
-http://104.218.60.145:83/292745542/267567743/376713
-#EXTINF:-1,ES: LA SEXTA HD
-http://104.218.60.145:83/292745542/267567743/376680
-#EXTINF:-1,ES: M COMEDIA HD
-http://104.218.60.145:83/292745542/267567743/376702
-#EXTINF:-1,ES: MEGA
-http://104.218.60.145:83/292745542/267567743/376679
-#EXTINF:-1,ES: Movistar Accion HD
-http://104.218.60.145:83/292745542/267567743/376703
-#EXTINF:-1,ES: Movistar ESTRENOS HD
-http://104.218.60.145:83/292745542/267567743/376698
-#EXTINF:-1,ES: MOVISTAR F1 HD
-http://104.218.60.145:83/292745542/267567743/376748
-#EXTINF:-1,ES: MOVISTAR FORMULA 1
-http://104.218.60.145:83/292745542/267567743/376747
-#EXTINF:-1,ES: Movistar Futbol
-http://104.218.60.145:83/292745542/267567743/376746
-#EXTINF:-1,ES: MOVISTAR MOTOGP
-http://104.218.60.145:83/292745542/267567743/376745
-#EXTINF:-1,ES: Movistar XTRA HD
-http://104.218.60.145:83/292745542/267567743/376692
-#EXTINF:-1,ES: MTV ESPANA
-http://104.218.60.145:83/292745542/267567743/376744
-#EXTINF:-1,ES: NAT GEO WILD HD
-http://104.218.60.145:83/292745542/267567743/376678
-#EXTINF:-1,ES: NATIONAL GEOGRAPHIC HD
-http://104.218.60.145:83/292745542/267567743/376677
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109903
+#EXTINF:-1,ES: Distrito Comedia
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109904
+#EXTINF:-1,ES: E! Entertainment
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109905
+#EXTINF:-1,ES: El Gourmet
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109906
+#EXTINF:-1,ES: EL GOURMET
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109141
+#EXTINF:-1,ES: ESPN
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109907
+#EXTINF:-1,ES: ESPN 2
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109908
+#EXTINF:-1,ES: ESPN 3
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109909
+#EXTINF:-1,ES: ESPN Deportes
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109910
+#EXTINF:-1,ES: Estrellas
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109911
+#EXTINF:-1,ES: Film And Arts
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109912
+#EXTINF:-1,ES: Foro
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109913
+#EXTINF:-1,ES: FORO TV
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109149
+#EXTINF:-1,ES: Fox
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109914
+#EXTINF:-1,ES: Fox Action
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109916
+#EXTINF:-1,ES: FOX Life
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109917
+#EXTINF:-1,ES: FOX Premium Action
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109918
+#EXTINF:-1,ES: FOX Premium Cinema
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109919
+#EXTINF:-1,ES: FOX Premium Classics
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109920
+#EXTINF:-1,ES: FOX Premium Comedy
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109921
+#EXTINF:-1,ES: FOX Premium Family
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109922
+#EXTINF:-1,ES: FOX Premium Movies
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109923
+#EXTINF:-1,ES: Fox Premium Movies
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109924
+#EXTINF:-1,ES: FOX Premium Series
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109925
+#EXTINF:-1,ES: FOX Series
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109926
+#EXTINF:-1,ES: FOX Sports
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109927
+#EXTINF:-1,ES: Fox Sports 1
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109928
+#EXTINF:-1,ES: FOX Sports 2
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109929
+#EXTINF:-1,ES: Fox Sports 2
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109930
+#EXTINF:-1,ES: Fox Sports 3
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109931
+#EXTINF:-1,ES: Fox Movies
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109932
+#EXTINF:-1,ES: Galavision
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109933
+#EXTINF:-1,ES: Galavision Low
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109156
+#EXTINF:-1,ES: Garage TV
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109934
+#EXTINF:-1,ES: Glitz
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109935
+#EXTINF:-1,ES: Golden
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109936
+#EXTINF:-1,ES: Golden Plus
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109937
+#EXTINF:-1,ES: GOLF
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109938
+#EXTINF:-1,ES: H2
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109939
+#EXTINF:-1,ES: HBO
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109940
+#EXTINF:-1,ES: HBO 2
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109941
+#EXTINF:-1,ES: HBO Family
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109942
+#EXTINF:-1,ES: HBO Plus Este
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109943
+#EXTINF:-1,ES: HBO Signature
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109944
+#EXTINF:-1,ES: HISTORY
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109945
+#EXTINF:-1,ES: History 2
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109946
+#EXTINF:-1,ES: History Channel
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109947
+#EXTINF:-1,ES: Hola
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109948
+#EXTINF:-1,ES: Indieplex
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109949
+#EXTINF:-1,ES: Investigation Discovery
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109950
+#EXTINF:-1,ES: LA 1
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110905
+#EXTINF:-1,ES: La 1 Catalunya
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110906
+#EXTINF:-1,ES: La 2
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110907
+#EXTINF:-1,ES: La Sexta
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110908
+#EXTINF:-1,ES: Las Estrellas
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109951
+#EXTINF:-1,ES: Lifetime
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109952
+#EXTINF:-1,ES: Mas Chic
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109953
+#EXTINF:-1,ES: MAX PRIME
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109954
+#EXTINF:-1,ES: Max Up
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109955
+#EXTINF:-1,ES: Milenio TV
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109956
+#EXTINF:-1,ES: Moremax
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109957
+#EXTINF:-1,ES: Moviemax
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109958
+#EXTINF:-1,ES: Movieplex
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109959
+#EXTINF:-1,ES: MTV
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109960
+#EXTINF:-1,ES: MTV Hits
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109961
+#EXTINF:-1,ES: MTV Live
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109962
+#EXTINF:-1,ES: Nat Geo
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109963
+#EXTINF:-1,ES: Nat Geo Kids
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109964
+#EXTINF:-1,ES: Nat Geo Wild
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109965
+#EXTINF:-1,ES: NBC Universo
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110909
 #EXTINF:-1,ES: NEOX
-http://104.218.60.145:83/292745542/267567743/376712
-#EXTINF:-1,ES: NICK Jr
-http://104.218.60.145:83/292745542/267567743/376676
-#EXTINF:-1,ES: NICKELODEON HD
-http://104.218.60.145:83/292745542/267567743/376711
-#EXTINF:-1,ES: Nonstop People
-http://104.218.60.145:83/292745542/267567743/376739
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110910
+#EXTINF:-1,ES: Next TV
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109966
+#EXTINF:-1,ES: Nick 2
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109967
+#EXTINF:-1,ES: Nick Jr
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109968
+#EXTINF:-1,ES: Nickelodeon
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109969
+#EXTINF:-1,ES: NickToons
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109970
+#EXTINF:-1,ES: Nos Pais
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109971
 #EXTINF:-1,ES: NOVA
-http://104.218.60.145:83/292745542/267567743/376710
-#EXTINF:-1,ES: PANDA
-http://104.218.60.145:83/292745542/267567743/376709
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110911
+#EXTINF:-1,ES: NTN 24
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109972
+#EXTINF:-1,ES: Nuestra Tele
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110912
+#EXTINF:-1,ES: Nuestra Tele Noticias 24
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110913
 #EXTINF:-1,ES: Paramount
-http://104.218.60.145:83/292745542/267567743/376742
-#EXTINF:-1,ES: SYFY
-http://104.218.60.145:83/292745542/267567743/376708
-#EXTINF:-1,ES: TCM HD
-http://104.218.60.145:83/292745542/267567743/376675
-#EXTINF:-1,ES: TELECINCO HD
-http://104.218.60.145:83/292745542/267567743/376674
-#EXTINF:-1,ES: TELEDEPORTE HD
-http://104.218.60.145:83/292745542/267567743/376673
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109973
+#EXTINF:-1,ES: Paramount Channel
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109974
+#EXTINF:-1,ES: Pasiones
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109975
+#EXTINF:-1,ES: Rai Italia
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110914
+#EXTINF:-1,ES: Rcn Tele Novelas
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109976
+#EXTINF:-1,ES: Ritmoson
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110915
+#EXTINF:-1,ES: RTV 7
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109977
+#EXTINF:-1,ES: Showtime
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109978
+#EXTINF:-1,ES: Showtime Beyond
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109979
+#EXTINF:-1,ES: Showtime East
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109980
+#EXTINF:-1,ES: Showtime West
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109981
+#EXTINF:-1,ES: Sony Channel
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109982
+#EXTINF:-1,ES: Space
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109983
+#EXTINF:-1,ES: Starz
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109984
+#EXTINF:-1,ES: Starz Black
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109985
+#EXTINF:-1,ES: Starz Cinema
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109986
+#EXTINF:-1,ES: Starz Comedy
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109987
+#EXTINF:-1,ES: Starz East
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109988
+#EXTINF:-1,ES: Starz Edge
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109989
+#EXTINF:-1,ES: Starz Encore
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109990
+#EXTINF:-1,ES: Starz Encore Action
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109991
+#EXTINF:-1,ES: Starz Encore Black
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109992
+#EXTINF:-1,ES: Starz Encore Classic
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109993
+#EXTINF:-1,ES: Starz Encore Family
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109994
+#EXTINF:-1,ES: Starz Encore Suspense
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109995
+#EXTINF:-1,ES: Starz Encore Western
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109996
+#EXTINF:-1,ES: Starz Family
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109997
+#EXTINF:-1,ES: Starz Kids & Family
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109998
+#EXTINF:-1,ES: Starz West
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/109999
+#EXTINF:-1,ES: Studio Universal
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110000
+#EXTINF:-1,ES: Sundance
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110001
+#EXTINF:-1,ES: Syfy
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110002
+#EXTINF:-1,ES: TBS
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110003
+#EXTINF:-1,ES: TCM
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110004
+#EXTINF:-1,ES: Tele Cafe
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110006
+#EXTINF:-1,ES: Telehit
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110007
+#EXTINF:-1,ES: TELEMUNDO 51 MIAMI
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110008
+#EXTINF:-1,ES: TELEMUNDO 52 KVEA LOS ANGELES
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110009
+#EXTINF:-1,ES: TL Novelas
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110010
+#EXTINF:-1,ES: TLC
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110011
 #EXTINF:-1,ES: TNT
-http://104.218.60.145:83/292745542/267567743/376707
-#EXTINF:-1,ES: VIAJAR HD
-http://104.218.60.145:83/292745542/267567743/376672
-#EXTINF:-1,ES: MEZZO LIVE HD
-http://104.218.60.145:83/292745542/267567743/376803
-#EXTINF:-1,ES: TV3
-http://104.218.60.145:83/292745542/267567743/384076
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110012
+#EXTINF:-1,ES: TNT Series
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110013
+#EXTINF:-1,ES: Tooncast
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110014
+#EXTINF:-1,ES: TruTv
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110015
+#EXTINF:-1,ES: TV5MONDE
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110916
+#EXTINF:-1,ES: TVE
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110016
+#EXTINF:-1,ES: TyC Sports
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110917
+#EXTINF:-1,ES: Unicable
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110017
+#EXTINF:-1,ES: UniMas
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110018
+#EXTINF:-1,ES: Universal
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110019
+#EXTINF:-1,ES: Univision
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110020
+#EXTINF:-1,ES: Univision Deportes
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110021
+#EXTINF:-1,ES: VH1
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110022
+#EXTINF:-1,ES: Wapa
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110023
+#EXTINF:-1,ES: Warner Channel
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110024
+#EXTINF:-1,ES: Win Sports
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110025
+#EXTINF:-1,ES: Zoom
+http://api.zforce.tv:826/thedodgerfan@protonmail.com/75j3xx7EMg/110026
